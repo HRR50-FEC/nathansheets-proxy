@@ -1,0 +1,22 @@
+#pageHeader {
+  margin-bottom: 20px;
+}
+
+#photos {
+  float: left;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+#productDescription {
+  float: right;
+}
+
+#reviews {
+  float:left;
+}
+
+#app {
+  width: 1200px;
+  margin: auto;
+}
